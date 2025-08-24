@@ -1,3 +1,7 @@
+NOSSO DISCORD> https://discord.gg/7wTvek96wy
+
+SE REPOSTAR COLOQUE OS CREDITOS POR FAVOR!!!
+
 # 🎟️ Garaki-Ticket  
 
 [![GitHub license](https://img.shields.io/github/license/kyungaraki/Garaki-Ticket?style=for-the-badge)](./LICENSE)
@@ -62,3 +66,5 @@ node index.js
  ┣ 📜 index.js       # Arquivo principal
  ┣ 📜 package.json   # Dependências do projeto
  ┣ 📜 README.md      # Documentação do projeto
+
+NOSSO DISCORD> https://discord.gg/7wTvek96wy
