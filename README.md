@@ -26,7 +26,7 @@ SE REPOSTAR COLOQUE OS CREDITOS POR FAVOR!!!
 ---
 
 ## 📸 Preview
-*(adicione aqui imagens do bot funcionando, ex: painel de tickets, um ticket aberto etc.)*  
+*(https://cdn.discordapp.com/attachments/1403433069037359184/1409297047366144020/Screenshot_20250824_190302_Chrome.jpg?ex=68acdda7&is=68ab8c27&hm=0edff0687aa7c36ea42209035939866abf874cda44276183cd476b09bc273bcd&)*  
 
 ---
 
