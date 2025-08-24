@@ -1,0 +1,14 @@
+{
+  "name": "bot-ticket",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord-html-transcripts": "^3.2.0",
+    "discord.js": "^14.15.3",
+    "express": "^5.1.0",
+    "sqlite3": "^5.1.6"
+  }
+}
